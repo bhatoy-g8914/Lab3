@@ -19,7 +19,9 @@ public class myAppTester {
 	 Scanner read = new Scanner(System.in);
 	 String str = read.nextLine();
 	 String reverse = "";
-	 
+	 /*git branch created 
+	  * branch 1
+	  */
 	 
 	 for(int i = str.length() - 1; i >= 0; i--)
 	 {
